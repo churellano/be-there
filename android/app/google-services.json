@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "701974457573",
+    "project_id": "bethere-3cd96",
+    "storage_bucket": "bethere-3cd96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701974457573:android:54630b55c2d6950d0d780c",
+        "android_client_info": {
+          "package_name": "com.example.be_there"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701974457573-gdg5h3019lnk6l0rammu7j4nmvjqsoqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.be_there",
+            "certificate_hash": "42d1ee289af95df5386206f24268e8e7aca5bf44"
+          }
+        },
+        {
+          "client_id": "701974457573-09ij2p9m2i4k0dirp673p2focqi4ar09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwFd3Jxceb1A56CtG1bK8RAxNC3PqFz6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701974457573-09ij2p9m2i4k0dirp673p2focqi4ar09.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "701974457573-rikss3l042qgbs94n8pd5kkskaojg1v0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.beThere"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
